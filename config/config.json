@@ -14,7 +14,7 @@
   "WEI_COST": 40000000000000000,
   "COST1": 50000000000000000,
   "DISPLAY_COST": 0.04,
-  "GAS_LIMIT": 185000,
+  "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/Monalisaverse",
   "SHOW_BACKGROUND": true
